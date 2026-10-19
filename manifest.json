@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T19:01:03Z",
+  "generated": "2026-10-19T19:37:33Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -18,10 +18,10 @@
       "title": "Snow 2",
       "image": "images/snow2.jpg",
       "thumbnail": "thumbs/snow2.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 143100,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2159606,
+      "placeholder": false
     },
     {
       "scene": "blusterySnow",
