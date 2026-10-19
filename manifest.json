@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T20:45:32Z",
+  "generated": "2026-10-19T22:17:37Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -240,7 +240,7 @@
       "thumbnail": "thumbs/starryNight.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 682989,
+      "bytes": 321130,
       "placeholder": false
     },
     {
