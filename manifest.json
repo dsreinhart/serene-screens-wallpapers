@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T20:36:07Z",
+  "generated": "2026-10-19T20:45:32Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -10,7 +10,7 @@
       "thumbnail": "thumbs/snow.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1233287,
+      "bytes": 1233454,
       "placeholder": false
     },
     {
@@ -30,7 +30,7 @@
       "thumbnail": "thumbs/blusterySnow.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1111869,
+      "bytes": 1111590,
       "placeholder": false
     },
     {
@@ -40,7 +40,7 @@
       "thumbnail": "thumbs/rain.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1017943,
+      "bytes": 1017864,
       "placeholder": false
     },
     {
@@ -50,7 +50,7 @@
       "thumbnail": "thumbs/heavyRain.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 457444,
+      "bytes": 457496,
       "placeholder": false
     },
     {
@@ -60,7 +60,7 @@
       "thumbnail": "thumbs/stormy.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 462163,
+      "bytes": 462121,
       "placeholder": false
     },
     {
@@ -70,7 +70,7 @@
       "thumbnail": "thumbs/fog.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 557215,
+      "bytes": 557168,
       "placeholder": false
     },
     {
@@ -80,7 +80,7 @@
       "thumbnail": "thumbs/leaves.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1790458,
+      "bytes": 1790261,
       "placeholder": false
     },
     {
@@ -90,7 +90,7 @@
       "thumbnail": "thumbs/cherryBlossoms.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1415286,
+      "bytes": 1415517,
       "placeholder": false
     },
     {
@@ -100,7 +100,7 @@
       "thumbnail": "thumbs/fireflies.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 369981,
+      "bytes": 370006,
       "placeholder": false
     },
     {
@@ -110,7 +110,7 @@
       "thumbnail": "thumbs/dandelionSeeds.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 763259,
+      "bytes": 763016,
       "placeholder": false
     },
     {
@@ -120,7 +120,7 @@
       "thumbnail": "thumbs/butterflies.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1255119,
+      "bytes": 1254941,
       "placeholder": false
     },
     {
@@ -130,7 +130,7 @@
       "thumbnail": "thumbs/insects.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 649539,
+      "bytes": 649284,
       "placeholder": false
     },
     {
@@ -140,7 +140,7 @@
       "thumbnail": "thumbs/soapBubbles.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1380969,
+      "bytes": 1380949,
       "placeholder": false
     },
     {
@@ -150,7 +150,7 @@
       "thumbnail": "thumbs/embers.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 312925,
+      "bytes": 312806,
       "placeholder": false
     },
     {
@@ -160,7 +160,7 @@
       "thumbnail": "thumbs/birds.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 441558,
+      "bytes": 441590,
       "placeholder": false
     },
     {
@@ -170,7 +170,7 @@
       "thumbnail": "thumbs/christmasLights.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 897046,
+      "bytes": 896956,
       "placeholder": false
     },
     {
@@ -180,7 +180,7 @@
       "thumbnail": "thumbs/christmasLights2.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1034618,
+      "bytes": 1034715,
       "placeholder": false
     },
     {
@@ -190,7 +190,7 @@
       "thumbnail": "thumbs/christmasTree.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 355930,
+      "bytes": 355933,
       "placeholder": false
     },
     {
@@ -210,7 +210,7 @@
       "thumbnail": "thumbs/stringLights.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 880786,
+      "bytes": 881044,
       "placeholder": false
     },
     {
@@ -220,7 +220,7 @@
       "thumbnail": "thumbs/chineseLanterns.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 884207,
+      "bytes": 884309,
       "placeholder": false
     },
     {
@@ -230,7 +230,7 @@
       "thumbnail": "thumbs/skyLanterns.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 668430,
+      "bytes": 668447,
       "placeholder": false
     },
     {
@@ -240,7 +240,7 @@
       "thumbnail": "thumbs/starryNight.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 683029,
+      "bytes": 682989,
       "placeholder": false
     },
     {
@@ -250,7 +250,7 @@
       "thumbnail": "thumbs/sunRays.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1100261,
+      "bytes": 1099920,
       "placeholder": false
     },
     {
@@ -260,7 +260,7 @@
       "thumbnail": "thumbs/aurora.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 638333,
+      "bytes": 638264,
       "placeholder": false
     },
     {
@@ -270,7 +270,7 @@
       "thumbnail": "thumbs/shootingStars.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 367623,
+      "bytes": 367704,
       "placeholder": false
     },
     {
@@ -280,7 +280,7 @@
       "thumbnail": "thumbs/confetti.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 622166,
+      "bytes": 622545,
       "placeholder": false
     },
     {
@@ -290,7 +290,7 @@
       "thumbnail": "thumbs/hearts.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 603871,
+      "bytes": 603606,
       "placeholder": false
     },
     {
@@ -300,7 +300,7 @@
       "thumbnail": "thumbs/batsAndGhosts.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 719641,
+      "bytes": 719440,
       "placeholder": false
     },
     {
@@ -310,7 +310,7 @@
       "thumbnail": "thumbs/fireworks.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 374722,
+      "bytes": 374888,
       "placeholder": false
     },
     {
@@ -320,7 +320,7 @@
       "thumbnail": "thumbs/balloons.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 777149,
+      "bytes": 777249,
       "placeholder": false
     },
     {
@@ -330,7 +330,7 @@
       "thumbnail": "thumbs/musicNotes.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 280448,
+      "bytes": 280145,
       "placeholder": false
     },
     {
@@ -340,7 +340,7 @@
       "thumbnail": "thumbs/shamrocks.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 858544,
+      "bytes": 858430,
       "placeholder": false
     },
     {
@@ -350,7 +350,7 @@
       "thumbnail": "thumbs/easterEggs.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 532287,
+      "bytes": 532066,
       "placeholder": false
     },
     {
@@ -360,7 +360,7 @@
       "thumbnail": "thumbs/paperPlanes.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 558117,
+      "bytes": 558130,
       "placeholder": false
     },
     {
@@ -370,7 +370,7 @@
       "thumbnail": "thumbs/umbrellas.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1460835,
+      "bytes": 1459939,
       "placeholder": false
     },
     {
@@ -380,7 +380,7 @@
       "thumbnail": "thumbs/beachBalls.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1188579,
+      "bytes": 1188659,
       "placeholder": false
     },
     {
@@ -390,7 +390,7 @@
       "thumbnail": "thumbs/lunarNewYear.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1079357,
+      "bytes": 1079331,
       "placeholder": false
     },
     {
@@ -400,7 +400,7 @@
       "thumbnail": "thumbs/champagne.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 635569,
+      "bytes": 635820,
       "placeholder": false
     },
     {
@@ -410,7 +410,7 @@
       "thumbnail": "thumbs/jellyfish.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 237658,
+      "bytes": 237608,
       "placeholder": false
     },
     {
@@ -420,7 +420,7 @@
       "thumbnail": "thumbs/schoolingFish.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1082865,
+      "bytes": 1082487,
       "placeholder": false
     },
     {
@@ -430,7 +430,7 @@
       "thumbnail": "thumbs/plankton.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 597452,
+      "bytes": 597368,
       "placeholder": false
     },
     {
@@ -440,7 +440,7 @@
       "thumbnail": "thumbs/kelp.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 573167,
+      "bytes": 572673,
       "placeholder": false
     },
     {
@@ -450,7 +450,7 @@
       "thumbnail": "thumbs/bubbleStream.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 683696,
+      "bytes": 683835,
       "placeholder": false
     }
   ]

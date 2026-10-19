@@ -25,7 +25,8 @@ QUEUE = "https://queue.fal.run"
 # Same geometry as Wallz/ImageStore.swift: logo in the lower-right corner of
 # the region a 16:10 Mac display shows after fill scaling.
 LOGO_WIDTH_FRACTION = 0.035
-LOGO_MARGIN_FRACTION = 0.018
+LOGO_MARGIN_FRACTION = 0.018        # inset from the bottom edge
+LOGO_RIGHT_INSET_FRACTION = 0.08    # inset from the right edge, clear of a Dock in the corner
 TARGET_SCREEN_ASPECT = 16 / 10
 
 
@@ -119,7 +120,7 @@ def watermark(src_path, dst_path):
     logo_w = max(48, int(round(vw * LOGO_WIDTH_FRACTION)))
     logo_h = int(round(logo_w * logo.height / logo.width))
     margin = vw * LOGO_MARGIN_FRACTION
-    x = int(round(vx + vw - margin - logo_w))
+    x = int(round(vx + vw - vw * LOGO_RIGHT_INSET_FRACTION - logo_w))
     y = int(round(vy + vh - margin - logo_h))   # PIL y grows downward
     logo = logo.resize((logo_w, logo_h), Image.LANCZOS)
 
