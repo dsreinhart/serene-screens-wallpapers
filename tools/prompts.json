@@ -13,7 +13,7 @@
     "fireflies": "Midsummer meadow at nightfall, deep indigo sky, dark treeline, faint moonlight on tall grass, no visible fireflies",
     "dandelionSeeds": "Sun-drenched hillside meadow in soft wind, bright wildflowers out of focus, lens flare, warm greens and yellows",
     "butterflies": "Overgrown cottage garden in high summer, lavender and foxgloves, dappled afternoon light, pastel palette",
-    "insects": "Golden hour at a pond's edge, reeds and lily pads, warm light on still water, shallow focus",
+    "insects": "Sunny summer meadow of wildflowers and clover seen from low down, purple and yellow blooms in soft focus, warm golden afternoon light, gentle green hills behind, dry and inviting",
     "soapBubbles": "Sunny backyard lawn from a child's eye view, bright blue sky, white picket fence, pure playful colors",
     "embers": "Campfire glow at night, dark pine silhouettes, warm orange light pooling on stones, sky above left empty",
     "birds": "Rolling coastal cliffs at sunrise, vast open sky in peach and lavender, calm sea below, horizon low in frame",
@@ -25,7 +25,7 @@
     "chineseLanterns": "Traditional Chinese courtyard at night, dark curved tiled rooftops against a deep ink-blue sky, wet stone paving, a bare plum tree, closed red wooden doors, quiet and empty, moody cinematic",
     "skyLanterns": "Wide river valley at night seen from a hilltop, distant town lights, mountains in silhouette, open starless sky",
     "starryNight": "Desert mesa under a moonless night, deep ink-black sky with only a faint Milky Way haze, no distinct stars",
-    "sunRays": "Sunlit cathedral of old-growth redwoods, misty air, forest floor in shadow, warm amber light, no beams drawn",
+    "sunRays": "Interior of an old-growth redwood forest on an overcast misty morning, huge trunks fading into soft gray fog, ferns on the forest floor, even diffused light, muted greens and browns, calm and quiet",
     "aurora": "Frozen Arctic fjord at night, snow-capped peaks, mirror-still water, dark sky with only a faint green tint",
     "shootingStars": "Mountain lake under a dark summer sky, treeline silhouettes, faint reflections, empty sky with no stars",
     "confetti": "Empty party ballroom with polished floor and glowing stage lights, warm gold and magenta haze",
@@ -40,11 +40,11 @@
     "umbrellas": "Quiet tree-lined Paris avenue in gentle rain at dawn, Haussmann residential facades with closed shutters, bare winter trees, wet pavement reflecting a soft gray sky, muted grays with warm light from a few upper windows, empty and still",
     "beachBalls": "Bright tropical beach at noon, white sand, turquoise shallows, clear sky, towel and umbrella at the edge",
     "lunarNewYear": "Close view of ornate red lacquered double doors with carved gold floral patterns, smooth red pillars on either side, polished stone steps, warm festive glow, deep crimson and gold, elegant and plain",
-    "champagne": "Dark art-deco bar at midnight, brass and black marble, soft candlelight, deep gold and ebony",
-    "jellyfish": "Deep open ocean at twilight, soft blue-violet gradient, faint light rays from above, no sea life",
+    "champagne": "Close-up of two tall crystal champagne flutes filled with golden champagne, glasses in sharp focus with soft candlelit bokeh behind, dark art-deco bar in deep gold and black, elegant midnight toast",
+    "jellyfish": "Fully submerged view in the deep open ocean, nothing but blue-violet water in every direction, gentle gradient from lighter blue above to deep indigo below, fine floating particles, no sea life, no horizon, no sky",
     "schoolingFish": "Sunlit coral reef with sandy floor, light caustics rippling, turquoise water, reef left and right with open water in the center",
-    "plankton": "Midnight ocean seen from below the surface, near-black navy, faint moonlight shimmer on the surface above",
+    "plankton": "Abstract deep ocean water texture filling the entire frame edge to edge, deep navy blue, tiny silvery specks suspended throughout the water, a subtle brighter blue gradient toward the top of the frame, soft dreamlike underwater atmosphere",
     "kelp": "Sunbeams filtering through green ocean water, rocky seabed, hazy depth, no kelp fronds drawn",
-    "bubbleStream": "Clear tropical water over a sandy bottom, bright sunlight caustics, pale aqua gradient, open and empty"
+    "bubbleStream": "Fully submerged view in clear tropical water, pale aqua water filling the whole frame, rippling sunlight caustics on a sandy seabed below, soft gradient to deeper blue at the edges, no horizon, no sky, no surface line"
   }
 }

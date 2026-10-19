@@ -77,6 +77,32 @@ def generate(scene, prompt, key):
         return r.read(), image.get("width"), image.get("height")
 
 
+def letterboxed(data, max_pixel=10, min_rows=8):
+    """True when the image carries black bars at the top or bottom, which
+    FLUX occasionally renders for wide aspect ratios. A bar row is one whose
+    brightest pixel is near zero; genuinely dark scenes (night skies, deep
+    water) still have highlights well above that."""
+    import io
+    im = Image.open(io.BytesIO(data)).convert("L")
+    w, h = im.size
+    def bars(rows):
+        return sum(1 for y in rows if im.crop((0, y, w, y + 1)).getextrema()[1] < max_pixel)
+    return bars(range(0, 120)) >= min_rows or bars(range(h - 120, h)) >= min_rows
+
+
+def generate_clean(scene, prompt, key, attempts=3):
+    """Generate, retrying when the result is letterboxed."""
+    for attempt in range(1, attempts + 1):
+        data, w, h = generate(scene, prompt, key)
+        if not letterboxed(data):
+            return data, w, h
+        rejected = os.path.join(ROOT, "raw", f"{scene}-rejected{attempt}.jpg")
+        with open(rejected, "wb") as f:
+            f.write(data)
+        print(f"{scene}: letterboxed result on attempt {attempt} (kept as raw/{os.path.basename(rejected)}), retrying", flush=True)
+    raise RuntimeError(f"{scene}: still letterboxed after {attempts} attempts")
+
+
 def visible_rect(width, height):
     """Part of the image a TARGET_SCREEN_ASPECT display shows after fill scaling."""
     vis_w = min(width, height * TARGET_SCREEN_ASPECT)
@@ -133,7 +159,7 @@ def main(argv):
         out_path = os.path.join(ROOT, "images", f"{scene}.jpg")
         if not watermark_only:
             print(f"{scene}: generating…", flush=True)
-            data, w, h = generate(scene, scenes[scene] + suffix, key)
+            data, w, h = generate_clean(scene, scenes[scene] + suffix, key)
             with open(raw_path, "wb") as f:
                 f.write(data)
             print(f"{scene}: raw {w}x{h}, {len(data) // 1024} KB", flush=True)

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T20:21:21Z",
+  "generated": "2026-10-19T20:36:07Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -130,7 +130,7 @@
       "thumbnail": "thumbs/insects.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 681184,
+      "bytes": 649539,
       "placeholder": false
     },
     {
@@ -250,7 +250,7 @@
       "thumbnail": "thumbs/sunRays.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1001187,
+      "bytes": 1100261,
       "placeholder": false
     },
     {
@@ -380,7 +380,7 @@
       "thumbnail": "thumbs/beachBalls.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 868543,
+      "bytes": 1188579,
       "placeholder": false
     },
     {
@@ -400,7 +400,7 @@
       "thumbnail": "thumbs/champagne.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 932760,
+      "bytes": 635569,
       "placeholder": false
     },
     {
@@ -410,7 +410,7 @@
       "thumbnail": "thumbs/jellyfish.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 433356,
+      "bytes": 237658,
       "placeholder": false
     },
     {
@@ -430,7 +430,7 @@
       "thumbnail": "thumbs/plankton.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 444887,
+      "bytes": 597452,
       "placeholder": false
     },
     {
@@ -450,7 +450,7 @@
       "thumbnail": "thumbs/bubbleStream.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 728551,
+      "bytes": 683696,
       "placeholder": false
     }
   ]
