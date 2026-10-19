@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T20:16:30Z",
+  "generated": "2026-10-19T20:21:21Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -60,7 +60,7 @@
       "thumbnail": "thumbs/stormy.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 565387,
+      "bytes": 462163,
       "placeholder": false
     },
     {
@@ -190,7 +190,7 @@
       "thumbnail": "thumbs/christmasTree.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 456977,
+      "bytes": 355930,
       "placeholder": false
     },
     {
@@ -210,7 +210,7 @@
       "thumbnail": "thumbs/stringLights.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1288382,
+      "bytes": 880786,
       "placeholder": false
     },
     {
@@ -220,7 +220,7 @@
       "thumbnail": "thumbs/chineseLanterns.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1002141,
+      "bytes": 884207,
       "placeholder": false
     },
     {
@@ -370,7 +370,7 @@
       "thumbnail": "thumbs/umbrellas.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 1184186,
+      "bytes": 1460835,
       "placeholder": false
     },
     {
@@ -390,7 +390,7 @@
       "thumbnail": "thumbs/lunarNewYear.jpg",
       "width": 2752,
       "height": 1536,
-      "bytes": 894277,
+      "bytes": 1079357,
       "placeholder": false
     },
     {
