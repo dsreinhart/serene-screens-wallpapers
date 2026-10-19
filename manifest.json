@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T19:56:48Z",
+  "generated": "2026-10-19T20:16:30Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -28,430 +28,430 @@
       "title": "Blustery Snow",
       "image": "images/blusterySnow.jpg",
       "thumbnail": "thumbs/blusterySnow.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 145186,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1111869,
+      "placeholder": false
     },
     {
       "scene": "rain",
       "title": "Drizzle",
       "image": "images/rain.jpg",
       "thumbnail": "thumbs/rain.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 136388,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1017943,
+      "placeholder": false
     },
     {
       "scene": "heavyRain",
       "title": "Heavy Rain",
       "image": "images/heavyRain.jpg",
       "thumbnail": "thumbs/heavyRain.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 136105,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 457444,
+      "placeholder": false
     },
     {
       "scene": "stormy",
       "title": "Stormy",
       "image": "images/stormy.jpg",
       "thumbnail": "thumbs/stormy.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 145434,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 565387,
+      "placeholder": false
     },
     {
       "scene": "fog",
       "title": "Drifting Fog",
       "image": "images/fog.jpg",
       "thumbnail": "thumbs/fog.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 145519,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 557215,
+      "placeholder": false
     },
     {
       "scene": "leaves",
       "title": "Autumn Leaves",
       "image": "images/leaves.jpg",
       "thumbnail": "thumbs/leaves.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 142258,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1790458,
+      "placeholder": false
     },
     {
       "scene": "cherryBlossoms",
       "title": "Cherry Blossoms",
       "image": "images/cherryBlossoms.jpg",
       "thumbnail": "thumbs/cherryBlossoms.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 131860,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1415286,
+      "placeholder": false
     },
     {
       "scene": "fireflies",
       "title": "Fireflies",
       "image": "images/fireflies.jpg",
       "thumbnail": "thumbs/fireflies.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 130529,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 369981,
+      "placeholder": false
     },
     {
       "scene": "dandelionSeeds",
       "title": "Dandelion Seeds",
       "image": "images/dandelionSeeds.jpg",
       "thumbnail": "thumbs/dandelionSeeds.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 139534,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 763259,
+      "placeholder": false
     },
     {
       "scene": "butterflies",
       "title": "Butterflies",
       "image": "images/butterflies.jpg",
       "thumbnail": "thumbs/butterflies.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 138942,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1255119,
+      "placeholder": false
     },
     {
       "scene": "insects",
       "title": "Insects",
       "image": "images/insects.jpg",
       "thumbnail": "thumbs/insects.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 137847,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 681184,
+      "placeholder": false
     },
     {
       "scene": "soapBubbles",
       "title": "Soap Bubbles",
       "image": "images/soapBubbles.jpg",
       "thumbnail": "thumbs/soapBubbles.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 145606,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1380969,
+      "placeholder": false
     },
     {
       "scene": "embers",
       "title": "Rising Embers",
       "image": "images/embers.jpg",
       "thumbnail": "thumbs/embers.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 139902,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 312925,
+      "placeholder": false
     },
     {
       "scene": "birds",
       "title": "Birds",
       "image": "images/birds.jpg",
       "thumbnail": "thumbs/birds.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 126021,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 441558,
+      "placeholder": false
     },
     {
       "scene": "christmasLights",
       "title": "Christmas Lights",
       "image": "images/christmasLights.jpg",
       "thumbnail": "thumbs/christmasLights.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 136521,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 897046,
+      "placeholder": false
     },
     {
       "scene": "christmasLights2",
       "title": "Christmas Lights 2",
       "image": "images/christmasLights2.jpg",
       "thumbnail": "thumbs/christmasLights2.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 131056,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1034618,
+      "placeholder": false
     },
     {
       "scene": "christmasTree",
       "title": "Christmas Tree",
       "image": "images/christmasTree.jpg",
       "thumbnail": "thumbs/christmasTree.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 132279,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 456977,
+      "placeholder": false
     },
     {
       "scene": "christmasEve",
       "title": "Christmas Eve",
       "image": "images/christmasEve.jpg",
       "thumbnail": "thumbs/christmasEve.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 136601,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 519827,
+      "placeholder": false
     },
     {
       "scene": "stringLights",
       "title": "Patio Lights",
       "image": "images/stringLights.jpg",
       "thumbnail": "thumbs/stringLights.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 148505,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1288382,
+      "placeholder": false
     },
     {
       "scene": "chineseLanterns",
       "title": "Chinese Lanterns",
       "image": "images/chineseLanterns.jpg",
       "thumbnail": "thumbs/chineseLanterns.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 134338,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1002141,
+      "placeholder": false
     },
     {
       "scene": "skyLanterns",
       "title": "Sky Lanterns",
       "image": "images/skyLanterns.jpg",
       "thumbnail": "thumbs/skyLanterns.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 139817,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 668430,
+      "placeholder": false
     },
     {
       "scene": "starryNight",
       "title": "Starry Night",
       "image": "images/starryNight.jpg",
       "thumbnail": "thumbs/starryNight.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 131004,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 683029,
+      "placeholder": false
     },
     {
       "scene": "sunRays",
       "title": "Sun Rays",
       "image": "images/sunRays.jpg",
       "thumbnail": "thumbs/sunRays.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 151778,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1001187,
+      "placeholder": false
     },
     {
       "scene": "aurora",
       "title": "Aurora Borealis",
       "image": "images/aurora.jpg",
       "thumbnail": "thumbs/aurora.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 131930,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 638333,
+      "placeholder": false
     },
     {
       "scene": "shootingStars",
       "title": "Shooting Stars",
       "image": "images/shootingStars.jpg",
       "thumbnail": "thumbs/shootingStars.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 132721,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 367623,
+      "placeholder": false
     },
     {
       "scene": "confetti",
       "title": "Confetti",
       "image": "images/confetti.jpg",
       "thumbnail": "thumbs/confetti.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 134196,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 622166,
+      "placeholder": false
     },
     {
       "scene": "hearts",
       "title": "Hearts",
       "image": "images/hearts.jpg",
       "thumbnail": "thumbs/hearts.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 123504,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 603871,
+      "placeholder": false
     },
     {
       "scene": "batsAndGhosts",
       "title": "Bats & Ghosts",
       "image": "images/batsAndGhosts.jpg",
       "thumbnail": "thumbs/batsAndGhosts.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 157766,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 719641,
+      "placeholder": false
     },
     {
       "scene": "fireworks",
       "title": "Fireworks",
       "image": "images/fireworks.jpg",
       "thumbnail": "thumbs/fireworks.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 132091,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 374722,
+      "placeholder": false
     },
     {
       "scene": "balloons",
       "title": "Balloons",
       "image": "images/balloons.jpg",
       "thumbnail": "thumbs/balloons.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 126090,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 777149,
+      "placeholder": false
     },
     {
       "scene": "musicNotes",
       "title": "Music Notes",
       "image": "images/musicNotes.jpg",
       "thumbnail": "thumbs/musicNotes.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 137633,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 280448,
+      "placeholder": false
     },
     {
       "scene": "shamrocks",
       "title": "Shamrocks",
       "image": "images/shamrocks.jpg",
       "thumbnail": "thumbs/shamrocks.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 139057,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 858544,
+      "placeholder": false
     },
     {
       "scene": "easterEggs",
       "title": "Easter Eggs",
       "image": "images/easterEggs.jpg",
       "thumbnail": "thumbs/easterEggs.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 120674,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 532287,
+      "placeholder": false
     },
     {
       "scene": "paperPlanes",
       "title": "Paper Planes",
       "image": "images/paperPlanes.jpg",
       "thumbnail": "thumbs/paperPlanes.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 133268,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 558117,
+      "placeholder": false
     },
     {
       "scene": "umbrellas",
       "title": "Umbrellas",
       "image": "images/umbrellas.jpg",
       "thumbnail": "thumbs/umbrellas.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 136767,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1184186,
+      "placeholder": false
     },
     {
       "scene": "beachBalls",
       "title": "Beach Balls",
       "image": "images/beachBalls.jpg",
       "thumbnail": "thumbs/beachBalls.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 143960,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 868543,
+      "placeholder": false
     },
     {
       "scene": "lunarNewYear",
       "title": "Lunar New Year",
       "image": "images/lunarNewYear.jpg",
       "thumbnail": "thumbs/lunarNewYear.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 159053,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 894277,
+      "placeholder": false
     },
     {
       "scene": "champagne",
       "title": "Champagne",
       "image": "images/champagne.jpg",
       "thumbnail": "thumbs/champagne.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 143507,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 932760,
+      "placeholder": false
     },
     {
       "scene": "jellyfish",
       "title": "Jellyfish",
       "image": "images/jellyfish.jpg",
       "thumbnail": "thumbs/jellyfish.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 127388,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 433356,
+      "placeholder": false
     },
     {
       "scene": "schoolingFish",
       "title": "Schooling Fish",
       "image": "images/schoolingFish.jpg",
       "thumbnail": "thumbs/schoolingFish.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 152718,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1082865,
+      "placeholder": false
     },
     {
       "scene": "plankton",
       "title": "Bioluminescent Plankton",
       "image": "images/plankton.jpg",
       "thumbnail": "thumbs/plankton.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 128501,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 444887,
+      "placeholder": false
     },
     {
       "scene": "kelp",
       "title": "Kelp Forest",
       "image": "images/kelp.jpg",
       "thumbnail": "thumbs/kelp.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 135172,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 573167,
+      "placeholder": false
     },
     {
       "scene": "bubbleStream",
       "title": "Bubble Streams",
       "image": "images/bubbleStream.jpg",
       "thumbnail": "thumbs/bubbleStream.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 142180,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 728551,
+      "placeholder": false
     }
   ]
 }
