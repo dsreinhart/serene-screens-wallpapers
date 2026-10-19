@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-19T19:37:33Z",
+  "generated": "2026-10-19T19:56:48Z",
   "baseURL": "https://dsreinhart.github.io/serene-screens-wallpapers/",
   "wallpapers": [
     {
@@ -8,10 +8,10 @@
       "title": "Snow",
       "image": "images/snow.jpg",
       "thumbnail": "thumbs/snow.jpg",
-      "width": 5120,
-      "height": 3200,
-      "bytes": 132447,
-      "placeholder": true
+      "width": 2752,
+      "height": 1536,
+      "bytes": 1233287,
+      "placeholder": false
     },
     {
       "scene": "snow2",
